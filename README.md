@@ -52,5 +52,29 @@ This repository includes published and draft research papers that document the c
 
 
 
+/Papers
+
+&#x20;   /Paper5\_HiveSync
+
+&#x20;   /Paper6\_IBCS\_Draft
+
+&#x20;   /Paper8\_3Sync\_Architecture\_Published
+
+&#x20;   /Paper9\_Final\_Published
+
+
+
+/Substrate
+
+&#x20;   /Identity
+
+&#x20;   /Governance
+
+&#x20;   /SWAR
+
+
+
+/Archive
+
 
 
